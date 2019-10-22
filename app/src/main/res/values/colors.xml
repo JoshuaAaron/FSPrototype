@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F6E0C9</color>
+    <color name="colorPrimaryDark">#C3AE98</color>
+    <color name="colorButton">#98ADC3</color>
+    <color name="colorAccent">#C9DFF6</color>
+    <color name="toolbarIconColor">#000000</color>
+    <color name="pageBackgroundColor">#FFFFFC</color>
+    <color name="gridBackgroundColor">#FCFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="Error">#C5032B</color>
+    <color name="onError">#FFFBFA</color>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FSPrototype</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Furnished Station</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="filter_list">Filter</string>
+
+    //Search bar
+    <string name="search_tip">Enter city or zip code</string>
+    <string name="search_map_btn">Search Map</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_account">My Account</string>
+    <string name="menu_requests">Requests</string>
+    <string name="menu_listings">Listings</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_login">Login</string>
+
+    //Listings Screen
+    <string name="listings_title">$1200/mo Lovely room on historic street in Charlestown</string>
+
+    <string name="submit_request">Let Property Owners Contact You...</string>
+    <string name="housing_request">Submit Housing Request</string>
+    <string name="rental_property">Have a room to rent?</string>
+    <string name="list_property">List Your Property Here</string>
+
+
+
+
+
+</resources>
